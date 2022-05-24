@@ -2,6 +2,8 @@
 #include<util/delay.h>
 #include<avr/interrupt.h>
 //----------------------------------------------------------------
+// Download the zip file for the proteus simulation and the whole source code (the MCU is atmega16)
+
 /*these variables are for:
  * SW_TCK1: stop watch timer flag when the timer reaches 1 it will do a certain
  * function will be illustrated below in the remain code.
